@@ -1,0 +1,17 @@
+.border {
+  border: 1px solid #ccc;
+}
+
+.margin_top_10 {
+  margin-top: 10px;
+  margin-bottom: 0px !important;
+}
+
+.margin_top_2 {
+  margin-top: 2px;
+  margin-bottom: 0px !important;
+}
+
+.is-gray {
+  background-color: #f2f2f2;
+}
